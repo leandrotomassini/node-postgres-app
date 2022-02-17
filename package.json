@@ -1,0 +1,29 @@
+{
+  "name": "postgres-app",
+  "version": "1.0.0",
+  "description": "![Node Postgres](https://i.imgur.com/G9fAQuY.png)\r # Node Postgres\r Servidor básico de pruebas con Postgres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrotomassini/node-postgres-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrotomassini/node-postgres-app/issues"
+  },
+  "homepage": "https://github.com/leandrotomassini/node-postgres-app#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/pg": "^8.6.4",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}
